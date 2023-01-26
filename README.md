@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timothy Macphail
 - 👀 I’m interested in full stack development and security engineering
-- 🌱 I’m currently learning about scaleable data analytics and distributed systems
-- 💼 I’m looking for SWE internships starting in 2023
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/timothy-macphail/)
+- 🌱 I’m currently learning about NLP and cybersecurity
+- 💼 I’m interning at [ENFOCOM](https://enfocom.com) until April 2023
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/timothy-macphail)
