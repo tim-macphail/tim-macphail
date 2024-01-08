@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tim Macphail
 - 👀 I’m interested in full stack development
-- 💼 I’m interning at [MDA](https://mda.space) until December 2023
+- 💼 I’m interning at Splunk until December 2023
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/timothy-macphail)
