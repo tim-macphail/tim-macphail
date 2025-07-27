@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tim Macphail
 - 👀 I’m interested in full stack development
-- 💼 I’m interning at Splunk until April 2024
+- 🎓 I'm graduating university in December 2025
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/timothy-macphail)
