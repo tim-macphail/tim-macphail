@@ -2,3 +2,4 @@
 - 👀 I’m interested in full stack development
 - 🎓 I'm graduating university in December 2025
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/timothy-macphail)
+- 👇 Check out some of the projects I've created/contributed to! 
